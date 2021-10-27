@@ -3,3 +3,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 2,0,ojrq.net,1,1630151293,1630151293,
 4,0,target.microsoft.com,1,1634134241,1634134241,"Added from Query Log"
 5,0,email-sendgrid-deep-linking.chewy.com,1,1634927990,1634927990,"Added from Query Log"
+8,1,ct.pinterest.com,1,1635369105,1635369105,"Added from Query Log"
